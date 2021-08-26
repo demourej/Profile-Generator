@@ -1,0 +1,29 @@
+.team-heading {
+  background-color: lightsteelblue;
+  color: steelblue;
+}
+
+.team-area {
+  margin: 3em auto;
+  flex-wrap: wrap;
+}
+
+.employee-card {
+  margin: 1em;
+  width: 90%;
+  background-color: lightsteelblue;
+  color: white;
+  display: flex;
+  border: none;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color:lightsteelblue;
+}
+
+.list-group-item {
+  color: #000000
+}
